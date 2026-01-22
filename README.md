@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hai, saya Adrian Wira Wicaksana 👋
 
-<!--
-**adrianwirawicaksana/adrianwirawicaksana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="./assets/BANNER.svg" alt="Adrian Wira Wicaksana" width="100%"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,git,github&theme=dark" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Processing-1f6feb?style=flat"/>
+  <img src="https://img.shields.io/badge/Feature%20Engineering-f39c12?style=flat"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat"/>
+</p>
+
+---
+
+## 📊 Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianwirawicaksana&layout=compact&theme=dark" />
+</p>
