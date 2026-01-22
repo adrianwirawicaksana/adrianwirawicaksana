@@ -40,7 +40,7 @@
 
 ## 📊 Most Used Languages
 
-<p align="center">
+<p align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianwirawicaksana&layout=compact&theme=dark"
     alt="Most Used Languages"
