@@ -1,17 +1,26 @@
 # Hai, saya Adrian Wira Wicaksana 👋
 
 <p align="center">
-  <img src="https://images.wallpaperscraft.com/image/single/girl_umbrella_anime_151317_1600x900.jpg" alt="Adrian Wira Wicaksana" width="100%"/>
+  <img 
+    src="https://images.wallpaperscraft.com/image/single/girl_umbrella_anime_151317_1600x900.jpg" 
+    alt="Adrian Wira Wicaksana"
+    style="width:100%; max-width:100%; height:auto;"
+  />
 </p>
 
 ---
 
-### ⚡ Tech Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i= python, tensorflow, pytorch, numpy, pandas, scikitlearn, nodejs, express, fastapi, mongodb, postgres, redis, react, nextjs, html, css, js, tailwind, git, github, docker, linux &theme=dark" /> </p>
+## ⚡ Tech Stack
 
-### 🏷️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,scikitlearn,nodejs,express,fastapi,mongodb,postgres,redis,react,nextjs,html,css,js,tailwind,git,github,docker,linux&theme=dark" />
+</p>
 
-<p align="left">
+---
+
+## 🏷️ Languages & Tools
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -31,6 +40,9 @@
 
 ## 📊 Most Used Languages
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianwirawicaksana&layout=compact&theme=dark" />
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianwirawicaksana&layout=compact&theme=dark"
+    alt="Most Used Languages"
+  />
 </p>
