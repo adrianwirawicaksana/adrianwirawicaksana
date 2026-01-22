@@ -16,6 +16,8 @@
   <img src="https://skillicons.dev/icons?i=
   python,
   pytorch,
+  numpy,
+  pandas,
   nodejs,
   mongodb,
   postgresql,
