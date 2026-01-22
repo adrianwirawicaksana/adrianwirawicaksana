@@ -1,7 +1,7 @@
 # Hai, saya Adrian Wira Wicaksana 👋
 
 <p align="center">
-  <img src="./assets/BANNER.svg" alt="Adrian Wira Wicaksana" width="100%"/>
+  <img src="https://wallpaperscraft.com/download/girl_umbrella_rain_151317/1600x900" alt="Adrian Wira Wicaksana" width="100%"/>
 </p>
 
 ---
