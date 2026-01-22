@@ -1,7 +1,7 @@
 # Hai, saya Adrian Wira Wicaksana 👋
 
 <p align="center">
-  <img src="./assets/BANNER.svg" alt="Adrian Wira Wicaksana" width="100%"/>
+  <img src="./assets/BANNER.svg" alt="Adrian Wira Wicaksana" height="300px" width="100%"/>
 </p>
 
 ---
