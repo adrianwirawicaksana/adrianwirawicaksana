@@ -7,14 +7,12 @@
 ---
 
 ⚡ Tech Stack
-🤖 AI & Data
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas&theme=dark" /> </p> <p align="left"> <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Data%20Processing-1f6feb?style=flat"/> <img src="https://img.shields.io/badge/Feature%20Engineering-f39c12?style=flat"/> </p>
-🧠 Backend & API
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres&theme=dark" /> </p> <p align="left"> <img src="https://img.shields.io/badge/REST%20API-005571?style=flat"/> <img src="https://img.shields.io/badge/Backend%20Development-181717?style=flat"/> </p>
-🌐 Full Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js&theme=dark" /> </p> <p align="left"> <img src="https://img.shields.io/badge/Full%20Stack-2c3e50?style=flat"/> </p>
-⚙️ Tools & DevOps
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,docker,linux&theme=dark" /> </p>
+🧩 Stack Overview
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,nodejs,express,fastapi,mongodb,postgres,react,nextjs,html,css,js,git,github,docker,linux&theme=dark" /> </p>
+🏷️ Elements
+
+AI & Data · Machine Learning · Data Processing · Feature Engineering ·
+Backend Development · REST API · Full Stack · DevOps & Tools
 
 ---
 
