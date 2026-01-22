@@ -6,8 +6,8 @@
 
 ---
 
-⚡ Tech Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,nodejs,express,fastapi,mongodb,postgres,react,nextjs,html,css,js,git,github,docker,linux&theme=dark" /> </p>
+### ⚡ Tech Stack
+<p align="left"> <img src="https://skillicons.dev/icons?i= python, tensorflow, pytorch, numpy, pandas, scikitlearn, nodejs, express, fastapi, mongodb, postgres, redis, react, nextjs, html, css, js, tailwind, git, github, docker, linux &theme=dark" /> </p>
 
 ### 🏷️ Languages & Tools
 
