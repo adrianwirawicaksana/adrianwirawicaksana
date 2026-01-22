@@ -1,4 +1,4 @@
-# Hai, saya Adrian Wira Wicaksana 👋
+# Hi, I'm Adrian Wira Wicaksana 👋
 
 <p align="left">
   <img 
