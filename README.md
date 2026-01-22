@@ -13,26 +13,7 @@
 ## ⚡ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=
-  python,
-  pytorch,
-  numpy,
-  pandas,
-  nodejs,
-  mongodb,
-  postgresql,
-  react,
-  nextjs,
-  html,
-  css,
-  js,
-  tailwind,
-  php,
-  git,
-  github,
-  docker,
-  linux
-  &theme=dark&size=80&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,numpy,pandas,nodejs,mongodb,postgresql,react,nextjs,html,css,js,tailwind,php,git,github,docker,linux&theme=dark&size=80&perline=5" />
 </p>
 
 ---
