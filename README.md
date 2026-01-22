@@ -1,6 +1,6 @@
 # Hai, saya Adrian Wira Wicaksana 👋
 
-<p align="center">
+<p align="left">
   <img 
     src="https://images.wallpaperscraft.com/image/single/girl_umbrella_anime_151317_1600x900.jpg" 
     alt="Adrian Wira Wicaksana"
@@ -12,7 +12,7 @@
 
 ## ⚡ Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,numpy,pandas,scikitlearn,nodejs,express,fastapi,mongodb,postgres,redis,react,nextjs,html,css,js,tailwind,git,github,docker,linux&theme=dark" />
 </p>
 
