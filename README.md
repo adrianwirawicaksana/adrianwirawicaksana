@@ -1,4 +1,4 @@
-# Hi, I'm Adrian 👋
+# Hey, I am Adrian 👋
 
 <p align="left">
   <img 
