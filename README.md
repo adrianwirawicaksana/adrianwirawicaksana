@@ -13,7 +13,7 @@
 ## ⚡ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,python,pytorch,numpy,pandas,nodejs,mongodb,postgresql,react,nextjs,html,css,js,tailwind,php,git,github,docker,linux&theme=dark&size=80&perline=5" />
+  <img src="https://skillicons.dev/icons?i=go,postgresql,docker,git,github,linux,python,pytorch,numpy,pandas,nodejs,mongodb,react,nextjs,html,css,js,tailwind,php&theme=dark&size=80&perline=5" />
 </p>
 
 ---
@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/Gorilla%20Mux-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GORM-FF5722?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
 
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
