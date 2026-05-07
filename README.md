@@ -49,13 +49,16 @@ Building modern and scalable frontend experiences with Next.js.
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Currently Exploring
 
-- Advanced Next.js Architecture
-- Server Components
+- SSR (Server-Side Rendering)
+- SSG & ISR Architecture
+- Lazy Loading & Code Splitting
+- Next.js Rendering Strategies
 - Performance Optimization
-- Scalable UI Systems
-- Frontend Engineering
+- Scalable Frontend Architecture
+- SEO Optimization in Next.js
+- Server Components & Streaming
 
 ---
 
@@ -70,8 +73,8 @@ Building modern and scalable frontend experiences with Next.js.
 
 ---
 
-## 🌐 Personal Branding
+## 🌐 Personal Website
 
 ```txt
-Mastering Frontend with Next.js
+yourwebsite.com
 ```
