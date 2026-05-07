@@ -1,74 +1,55 @@
 # Hey! I am Adrian 👋
 
+### Frontend Engineer focused on Next.js & TypeScript
+
+Building modern and scalable frontend experiences with Next.js.
+
+---
+
+## ⚡ Frontend Stack
+
 <p align="left">
-  <img 
-    src="https://images.wallpaperscraft.com/image/single/girl_umbrella_anime_151317_1600x900.jpg" 
-    alt="Adrian Wira Wicaksana"
-    style="width:100%; max-width:100%; height:auto;"
-  />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,js,html,css,nodejs,git,github&theme=dark&perline=5" />
 </p>
 
 ---
 
-## ⚡ Tech Stack
+## 🧩 Main Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,postgresql,docker,git,github,linux,python,pytorch,numpy,pandas,nodejs,mongodb,react,nextjs,html,css,js,tailwind,php&theme=dark&size=80&perline=5" />
-</p>
-
----
-
-## 🤖 Machine Learning & Data
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Feature%20Engineering-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Processing-1f6feb?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge"/>
-</p>
-
----
-
-## 🏷️ Languages & Tools
-
-<p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
-  <!-- Backend Framework -->
-  <img src="https://img.shields.io/badge/Gorilla%20Mux-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GORM-FF5722?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
 
   <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-
-  <!-- Backend Runtime -->
+  
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-  <!-- DevOps & Tools -->
+  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
 </p>
 
 ---
 
-## 📊 Most Used Languages
+## 🚀 Currently Learning
+
+- Advanced Next.js Architecture
+- Server Components
+- Performance Optimization
+- Scalable UI Systems
+- Frontend Engineering
+
+---
+
+## 📊 GitHub Stats
 
 <p align="left">
   <img 
@@ -76,3 +57,11 @@
     alt="Most Used Languages"
   />
 </p>
+
+---
+
+## 🌐 Personal Branding
+
+```txt
+Mastering Frontend with Next.js
+```
