@@ -51,8 +51,6 @@ Building modern and scalable frontend experiences with Next.js.
 
 ## 🚀 Frontend Architecture
 
-Frontend Architecture
-
 - SSR (Server-Side Rendering)
 - SSG & ISR Architecture
 - Lazy Loading & Code Splitting
