@@ -6,6 +6,17 @@ Building modern and scalable frontend experiences with Next.js.
 
 ---
 
+<p align="center">
+  <img 
+    src="https://images.wallpaperscraft.com/image/single/girl_umbrella_anime_151317_1600x900.jpg"
+    alt="Banner"
+    width="100%"
+    style="border-radius: 12px;"
+  />
+</p>
+
+---
+
 ## ⚡ Frontend Stack
 
 <p align="left">
@@ -18,21 +29,20 @@ Building modern and scalable frontend experiences with Next.js.
 
 <p align="left">
 
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  
+
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  
+
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  
+
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  
+
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  
+
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  
+
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  
+
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
