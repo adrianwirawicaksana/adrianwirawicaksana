@@ -51,15 +51,20 @@ Building modern and scalable frontend experiences with Next.js.
 
 ## 🚀 Frontend Architecture
 
-- SSR (Server-Side Rendering)
-- SSG & ISR Architecture
-- Lazy Loading & Code Splitting
-- Next.js Rendering Strategies
-- Performance Optimization
-- Scalable Frontend Architecture
-- SEO Optimization in Next.js
-- Server Components & Streaming
+Frontend Architecture
 
+• SSR (Server-Side Rendering)
+• SSG & ISR Architecture
+• Lazy Loading & Code Splitting
+• Next.js Rendering Strategies
+• Performance Optimization
+• Scalable Frontend Architecture
+• SEO Optimization in Next.js
+• Server Components & Streaming
+• Client & Server Components
+• State Management
+• API Integration
+• Responsive UI Engineering
 ---
 
 ## 📊 GitHub Stats
