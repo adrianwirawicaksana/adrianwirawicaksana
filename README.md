@@ -2,7 +2,7 @@
 
 ### Frontend Engineer focused on Next.js & TypeScript
 
-Building modern and scalable frontend experiences with Next.js.
+Building modern, scalable, and responsive web applications.
 
 ---
 
