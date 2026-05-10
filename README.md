@@ -49,20 +49,18 @@ Building modern, scalable, and responsive web applications.
 
 ---
 
-## 🚀 Frontend Architecture
+## Frontend Skills
 
-- SSR (Server-Side Rendering)
-- SSG & ISR Architecture
-- Lazy Loading & Code Splitting
-- Next.js Rendering Strategies
-- Performance Optimization
-- Scalable Frontend Architecture
-- SEO Optimization in Next.js
-- Server Components & Streaming
-- Client & Server Components
-- State Management
+- Next.js App Router
+- TypeScript
+- SSR, SSG, and ISR
 - API Integration
-- Responsive UI Engineering
+- State Management
+- Responsive UI Development
+- SEO Optimization
+- Lazy Loading & Code Splitting
+- Client & Server Components
+- Performance Optimization
 ---
 
 ## 📊 GitHub Stats
