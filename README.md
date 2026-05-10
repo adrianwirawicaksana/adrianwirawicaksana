@@ -1,6 +1,6 @@
 # Hey! I am Adrian 👋
 
-### Frontend Engineer focused on Next.js & TypeScript
+### Frontend Web focused on Next.js & TypeScript
 
 Building modern, scalable, and responsive web applications.
 
