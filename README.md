@@ -49,7 +49,7 @@ Building modern, scalable, and responsive web applications.
 
 ---
 
-## Frontend Skills
+## Core system
 
 - Next.js App Router
 - TypeScript
