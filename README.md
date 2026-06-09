@@ -73,9 +73,3 @@ Building modern, scalable, and responsive web applications.
 </p>
 
 ---
-
-## 🌐 Personal Website
-
-```txt
-adrianwirawicaksana.vercel.app
-```
