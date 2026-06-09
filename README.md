@@ -71,5 +71,3 @@ Building modern, scalable, and responsive web applications.
     alt="Most Used Languages"
   />
 </p>
-
----
