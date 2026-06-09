@@ -49,7 +49,7 @@ Building modern, scalable, and responsive web applications.
 
 ---
 
-## Core system
+## Core System
 
 - Next.js App Router
 - TypeScript
