@@ -1,6 +1,6 @@
 # Hey! I am Adrian 👋
 
-### Fullstack Web Developer focused on Next.js, TypeScript & Go
+### Web Developer focused on Next.js, TypeScript & Go
 
 Building modern, scalable, and high-performance web applications.
 
