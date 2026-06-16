@@ -17,27 +17,24 @@ Building modern, scalable, and high-performance web applications.
 
 ---
 
-## 🔗 Portfolios
-🚀 Check out my full work and projects here: **[yanportfolio.vercel.app](https://yanportfolio.vercel.app)**
-
----
-
-## ⚡ Tech Stack
+## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,go,nodejs,js,html,css,git,github&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,go,gin,mongodb,nodejs,git,github&theme=dark&perline=5" />
 </p>
 
 ---
 
-## 🧩 Main Technologies
+## Main Technologies
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gin-00A2E8?style=for-the-badge&logo=gin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -45,7 +42,7 @@ Building modern, scalable, and high-performance web applications.
 
 ---
 
-## 💻 Core System & Expertise
+## Core System & Expertise
 
 ### Frontend Capabilities
 - Next.js App Router (Client & Server Components)
@@ -55,13 +52,18 @@ Building modern, scalable, and high-performance web applications.
 - Performance Optimization (Lazy Loading & Code Splitting)
 - SEO Optimization & Web Vitals
 
-### Backend Capabilities (Go)
-- RESTful & gRPC API Development
-- High-Performance Microservices
+### Backend Capabilities (Go & Node.js)
+- RESTful API Development using Gin Framework
+- High-Performance Microservices & Routing
 - Concurrency Handling (Goroutines & Channels)
-- Database Management & Query Optimization (SQL/NoSQL)
+- Database Management & Aggregation with MongoDB
 - Middleware, Authentication & Authorization (JWT)
 - Structured Project Layout & Clean Architecture
+
+---
+
+## Main Portfolio
+Link URL: **[yanportfolio.vercel.app](https://yanportfolio.vercel.app)**
 
 ---
 
